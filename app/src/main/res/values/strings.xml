@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SubscriptionDatabase</string>
+        <string name="student_photo_desc">Student Photo</string>
+        <string name="student_name">Student Name</string>
+        <string name="student_id">Student ID</string>
+        <string name="student_age">Student Age</string>
+        <string name="save">Save</string>
+        <string name="delete">Delete</string>
+        <string name="update">Update</string>
+</resources>
